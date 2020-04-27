@@ -1,0 +1,38 @@
+.search-bar {
+  margin: 2rem 0 5rem 0;
+}
+
+.ui.input {
+  display: flex;
+}
+
+.search-bar .ui.button {
+  background-color: #ff446a;
+  color: #fff;
+}
+
+.home-header.ui.menu {
+  box-shadow: none;
+  border: none;
+  font-size: large;
+}
+
+.home-header.ui.menu .item {
+  position: static;
+  padding: 2rem 0;
+  margin-top: 2rem 0;
+  font-size: 40px;
+}
+
+.ui.pagination.menu {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.movie-details {
+  margin: 2rem;
+  max-width: 80rem;
+  font-family: Montserrat;
+  font-size: larger;
+}
